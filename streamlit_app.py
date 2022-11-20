@@ -5,6 +5,10 @@ streamlit.title("My Parents New Healthy Diner")
 
 streamlit.header("Breakfast Menu")
 
+streamlit.text("Aloo Paratha")
+
+streamlit.text("Gobi Paratha")
+
 streamlit.text("🍲 Idly & Coconut Chutney")
 
 streamlit.text("Idly & Sambar")
