@@ -12,4 +12,7 @@ streamlit.text("Roti & Aloo Bhujiya")
 
 streamlit.text("Dosa & Peanut Chutney")
 
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
+
+
 
